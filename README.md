@@ -36,17 +36,30 @@ Designed a lightweight, modular cart chassis optimized for strength, manufactura
 - **15–20% weight reduction** while maintaining safety compliance  
 - Designed double wishbone suspension (ride frequency: 1.6 Hz, optimized camber/KPI)  
 
+## 2️⃣ SAE REEV Hybrid Electric Vehicle — Roll Cage & Suspension System
+**Role:** Captain & Mechanical Lead  
+**Tools:** SolidWorks, ANSYS, Lotus Suspension Analysis  
+
+### 🔹 Contributions
+- Complete roll cage design following SAE safety rules  
+- Crash simulations: front, rear, side, and rollover  
+- **15–20% weight reduction** while maintaining safety compliance  
+- Designed double wishbone suspension (ride frequency: 1.6 Hz, optimized camber/KPI)  
+
 📁 **Folder:** `/REEV`
 
-### 🔸 REEV Vehicle Overview
-<img src="/assets/REEV.png" width="600">
+---
 
-### 🔸 Front Impact Analysis (ANSYS)
-<img src="/assets/ANSYS Static Structural Front Impact Analysis.png" width="600">
+### 🔸 REEV Vehicle Overview  
+<img src="/REEV/REEV.png" width="600">
 
-### 🔸 Suspension System CAD (Fusion 360)
-<img src="/assets/Suspension Design in Fusion 360.png" width="600">
+### 🔸 Front Impact Analysis (ANSYS)  
+<img src="/REEV/ANSYS Static Structural Front Impact Analysis.png" width="600">
 
-### 🔸 Suspension Dynamics (Lotus Simulation)
-<img src="/assets/Lotus Simulation for Suspension Analysis.png" width="600">
+### 🔸 Suspension System CAD (Fusion 360)  
+<img src="/REEV/Suspension Design in Fusion 360.png" width="600">
+
+### 🔸 Suspension Dynamics (Lotus Simulation)  
+<img src="/REEV/Lotus Simulation for Suspension Analysis.png" width="600">
+
 
