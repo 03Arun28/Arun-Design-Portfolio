@@ -15,7 +15,7 @@ I enjoy solving real-world engineering problems and continuously improving my sk
 
 ---
 
-## 1️⃣ Electric Vendor Cart — Chassis & Structural Design  
+# 1️⃣ Electric Vendor Cart — Chassis & Structural Design  
 **Tools:** SolidWorks, Fusion 360, ANSYS  
 
 Designed a lightweight, modular cart chassis optimized for **strength, manufacturability, and ergonomics**.
@@ -31,74 +31,92 @@ Designed a lightweight, modular cart chassis optimized for **strength, manufactu
 ---
 
 ### 🔸 Final Cart CAD Model  
-<img src="/Electric_Vendor_Cart/Electric Vendor Cart.png" width="600">
+<p align="center">
+  <img src="/Electric_Vendor_Cart/Electric Vendor Cart.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
-### 🔸 Imported Geometry from SolidWorks  
-<img src="/Electric_Vendor_Cart/Imported geometry from solid works.png" width="600">
+### 🔸 Imported Geometry  
+<p align="center">
+  <img src="/Electric_Vendor_Cart/Imported geometry from solid works.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
-### 🔸 Boundary Conditions (ANSYS Setup)  
-<img src="/Electric_Vendor_Cart/Boundary Conditions.png" width="600">
+### 🔸 Boundary Conditions  
+<p align="center">
+  <img src="/Electric_Vendor_Cart/Boundary Conditions.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ### 🔸 Equivalent Stress (Von Mises)  
-<img src="/Electric_Vendor_Cart/Equivalent Stress.png" width="600">
+<p align="center">
+  <img src="/Electric_Vendor_Cart/Equivalent Stress.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ### 🔸 Factor of Safety (FOS)  
-<img src="/Electric_Vendor_Cart/FOS.png" width="600">
+<p align="center">
+  <img src="/Electric_Vendor_Cart/FOS.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ### 🔸 Actual Manufactured Cart  
-<img src="/Electric_Vendor_Cart/Actual Manufactured Cart.png" width="600">
+<p align="center">
+  <img src="/Electric_Vendor_Cart/Actual Manufactured Cart.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ---
 
----
+# 2️⃣ SAE REEV Hybrid Electric Vehicle — Roll Cage & Suspension Design  
+**Tools:** SolidWorks, Fusion 360, ANSYS, Lotus Suspension Analysis  
 
-## 2️⃣ SAE REEV Hybrid Electric Vehicle — Roll Cage & Suspension Design  
-**Tools:** SolidWorks, Fusion 360, ANSYS, Lotus Suspension Analysis**
-
-Designed and analysed multiple subsystems for an SAE REEV hybrid electric vehicle, including **roll cage, suspension, and impact simulations**.
+Designed and analysed core subsystems of a hybrid electric vehicle including **roll cage, suspension, and impact behaviour**.
 
 ### 🔹 Key Highlights
-- Designed lightweight roll cage following SAE standards  
-- Performed static & crash simulation (front, side, rollover)  
-- Designed double wishbone suspension (ride freq. 1.6 Hz)  
-- Conducted Lotus suspension modelling for dynamics and geometry optimisation  
+- Designed lightweight roll cage meeting SAE safety rules  
+- Performed static & crash simulations (front, side, rollover)  
+- Developed double-wishbone suspension tuned to **1.6 Hz**  
+- Performed Lotus suspension simulations for dynamic behaviour  
 
 📁 **Folder:** `/REEV`
 
 ---
 
 ### 🔸 REEV Vehicle Overview  
-<img src="/REEV/REEV.png" width="600">
+<p align="center">
+  <img src="/REEV/REEV.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
-### 🔸 Front Impact Analysis (ANSYS)  
-<img src="/REEV/ANSYS Static Structural Front Impact Analysis.png" width="600">
+### 🔸 Front Impact (ANSYS)  
+<p align="center">
+  <img src="/REEV/ANSYS Static Structural Front Impact Analysis.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
-### 🔸 Suspension CAD Model (Fusion 360)  
-<img src="/REEV/Suspension Design in Fusion 360.png" width="600">
+### 🔸 Suspension CAD Model  
+<p align="center">
+  <img src="/REEV/Suspension Design in Fusion 360.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ### 🔸 Suspension Dynamics (Lotus Simulation)  
-<img src="/REEV/Lotus Simulation for Suspension Analysis.png" width="600">
+<p align="center">
+  <img src="/REEV/Lotus Simulation for Suspension Analysis.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ---
 
----
-
-## 3️⃣ CFD Analysis — Centrifugal Pump  
+# 3️⃣ CFD Analysis — Centrifugal Pump  
 **Tool:** SimScale  
 
-Performed CFD simulation to analyse internal flow characteristics of a centrifugal pump.
+Performed CFD analysis to assess internal flow behaviour and pressure distribution in a centrifugal pump.
 
 ### 🔹 Key Highlights
-- Defined boundary conditions and meshing  
-- Studied pressure, velocity, turbulence, and flow separation  
-- Identified loss regions and suggested efficiency improvements (~5%)  
+- Boundary conditions + meshing setup  
+- Studied pressure, velocity, turbulence, and recirculation  
+- Identified loss regions and recommended ~5% efficiency improvement  
 
 📁 **Folder:** `/CFD_Centrifugal_Pump`
 
 ---
 
-### 🔸 Simulation Interface (SimScale)  
-<img src="/CFD_Centrifugal_Pump/image.png" width="600">
+### 🔸 Simulation Interface  
+<p align="center">
+  <img src="/CFD_Centrifugal_Pump/image.png" style="width:600px; max-width:100%; display:block; margin:auto;">
+</p>
 
 ---
 
@@ -110,26 +128,23 @@ Performed CFD simulation to analyse internal flow characteristics of a centrifug
 - CATIA  
 
 ### **Simulation & Analysis**
-- ANSYS (Static, Dynamic, Thermal, Impact)  
+- ANSYS  
 - SimScale (CFD)  
-- MATLAB (Basics)  
+- MATLAB  
 
-### **Other Skills**
-- FEM Workflow  
+### **Engineering Skills**
+- Finite Element Analysis  
 - GD&T  
-- Technical Documentation  
 - Manufacturing & Metrology  
+- Technical Documentation  
 
 ---
 
 # 📞 Contact  
-If you’d like to discuss my work or potential opportunities:
-
 📧 **Email:** arun.sagar0328@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/arun-sagar-s  
 🐙 **GitHub:** https://github.com/03Arun28  
 
 ---
 
-### ⭐ Thank you for viewing my portfolio!  
-Feel free to explore each project folder for the complete design files, simulations, and reports.
+### ⭐ Thank you for viewing my portfolio!
