@@ -105,6 +105,24 @@ Designed a lightweight, modular cart chassis optimized for strength, manufactura
 
 ### 🔸 Actual Manufactured Cart  
 <img src="/Electric_Vendor_Cart/Actual Manufactured Cart.png" width="600">
+## 3️⃣ CFD Analysis — Centrifugal Pump
+**Tool:** SimScale  
+
+Performed CFD simulation to analyze internal flow characteristics of a centrifugal pump using cloud-based solver tools.
+
+### 🔹 Highlights
+- Imported pump geometry and defined boundary conditions  
+- Analysed pressure, velocity, and turbulence distribution  
+- Identified flow separation regions and losses  
+- Suggested design modifications for ~5% efficiency improvement  
+
+📁 **Folder:** `/CFD_Centrifugal_Pump`
+
+---
+
+### 🔸 Simulation Interface (SimScale)
+<img src="/CFD_Centrifugal_Pump/image.png" width="600">
+
 
 
 
