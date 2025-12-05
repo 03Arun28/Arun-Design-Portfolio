@@ -62,4 +62,37 @@ Designed a lightweight, modular cart chassis optimized for strength, manufactura
 ### 🔸 Suspension Dynamics (Lotus Simulation)  
 <img src="/REEV/Lotus Simulation for Suspension Analysis.png" width="600">
 
+## 1️⃣ Electric Vendor Cart — Chassis & Structural Design
+**Tools:** SolidWorks, Fusion 360, ANSYS  
+
+Designed a lightweight, modular cart chassis optimized for strength, manufacturability, and ergonomics.
+
+### 🔹 Key Highlights
+- Full 3D chassis modelling with mounting interfaces  
+- Static structural analysis (FOS ≥ 2.5 under 250 kg payload)  
+- Achieved **12% weight reduction** through geometry optimisation  
+- Designed battery housing, motor mounts, and ergonomic seating layout  
+
+📁 **Folder:** `/Electric_Vendor_Cart`
+
+---
+
+### 🔸 Final Cart CAD Model  
+<img src="/assets/Electric Vendor Cart.png" width="600">
+
+### 🔸 Imported Geometry from SolidWorks  
+<img src="/assets/Imported geometry from solid works.png" width="600">
+
+### 🔸 Boundary Conditions (ANSYS Setup)  
+<img src="/assets/Boundary Conditions.png" width="600">
+
+### 🔸 Equivalent Stress (Von Mises)  
+<img src="/assets/Equivalent Stress.png" width="600">
+
+### 🔸 Factor of Safety (FoS)  
+<img src="/assets/FOS.png" width="600">
+
+### 🔸 Actual Manufactured Cart  
+<img src="/assets/Actual Manufactured Cart.png" width="600">
+
 
